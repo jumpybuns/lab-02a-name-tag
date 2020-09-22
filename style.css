@@ -1,0 +1,47 @@
+  
+body, html {
+    height: 100%;
+}
+
+body {
+    background-color: pink;
+}
+
+main {
+    width: 380px;
+    height: 270px;
+    background-color: red;
+    font-family: Arial;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+}
+
+p {
+  margin: 0;  
+}
+
+.hello {
+    font-size: 4em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.my-name-is {
+    font-size: 2em;
+}
+
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    background-color: white;
+    color: black;
+    font-family: cursive;
+    height: 115px;
+    font-size: 2.5em;
+}
