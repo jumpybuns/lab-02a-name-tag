@@ -1,20 +1,19 @@
   
 body, html {
-    height: 100%;
+    height: 100%
 }
-
 body {
     background-color: pink;
 }
 
 main {
-    width: 380px;
     height: 270px;
+    width: 380px;
+    border-radius: 15px;
     background-color: red;
     font-family: Arial;
     text-align: center;
     color: white;
-    border-radius: 15px;
 }
 
 p {
@@ -29,6 +28,7 @@ p {
 
 .my-name-is {
     font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .flex-center {
@@ -43,5 +43,5 @@ section {
     color: black;
     font-family: cursive;
     height: 115px;
-    font-size: 2.5em;
+    font-size: 3em;
 }
