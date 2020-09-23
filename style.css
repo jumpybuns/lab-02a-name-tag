@@ -9,7 +9,6 @@ body {
 }
 
 main {
-    
     height: 270px;
     width: 380px;
     border-radius: 15px;
@@ -45,8 +44,10 @@ p {
 .flex-center {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
 }
+
+
 
 
